@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:FJU  ",
@@ -15,30 +15,37 @@
       }
     },
     {
-      "query": "file: Windows",
+      "query": "file:Windows",
       "color": {
         "a": 1,
-        "rgb": 7210454
+        "rgb": 11424480
+      }
+    },
+    {
+      "query": "file:Дзюдо",
+      "color": {
+        "a": 1,
+        "rgb": 3358694
       }
     },
     {
       "query": "path:Дзюдо  ",
       "color": {
         "a": 1,
-        "rgb": 52479
+        "rgb": 5420768
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 1.31844919786096,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1.171875,
   "collapse-forces": false,
-  "centerStrength": 0.419786096256685,
-  "repelStrength": 13.8502673796791,
+  "centerStrength": 0.229166666666667,
+  "repelStrength": 10.4166666666667,
   "linkStrength": 1,
-  "linkDistance": 200,
-  "scale": 0.5087618855792744,
+  "linkDistance": 236,
+  "scale": 0.7132754626224732,
   "close": true
 }
