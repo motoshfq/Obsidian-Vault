@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:windows",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:FJU  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701249
+      }
+    },
+    {
+      "query": "file:Дзюдо",
+      "color": {
+        "a": 1,
+        "rgb": 5402336
+      }
+    },
+    {
+      "query": "path:Дзюдо  ",
+      "color": {
+        "a": 1,
+        "rgb": 5413856
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0.2,
@@ -17,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 133,
-  "scale": 0.7132754626224928,
-  "close": false
+  "scale": 0.1316872427983636,
+  "close": true
 }
