@@ -44,9 +44,23 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "96b5256433f86234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дзюдо/🧘 Комплекс растяжки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧘 Комплекс растяжки"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 434.5
   },
   "right": {
     "id": "090cc040c4c72f51",
@@ -205,8 +219,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "db3515ec0ad1b63c",
+  "active": "96b5256433f86234",
   "lastOpenFiles": [
+    "Pasted image 20250802125649.png",
+    "Pasted image 20250802125541.png",
+    "Pasted image 20250802125432.png",
+    "Pasted image 20250802125345.png",
+    "assets/хуита/Pasted image 20250802124633.png",
+    "Личное пространство в Windows.md",
+    "Дзюдо/🧘 Комплекс растяжки.md",
+    "assets/хуита/Pasted image 20250802125229.png",
+    "assets/хуита/Pasted image 20250802124827.png",
+    "assets/хуита/Pasted image 20250802124820.png",
+    "assets/хуита/Pasted image 20250802124723.png",
+    "Дзюдо/🧠 Ментальная стабильность.md",
+    "assets/хуита/Pasted image 20250802124320.jpg",
+    "assets/хуита/Pasted image 20250802124600.png",
+    "assets/хуита",
+    "Дзюдо/🥇 Чемпионат U16.md",
+    "Дзюдо/🥩 Питание.md",
     "Дзюдо/Оглавление/Славянск.md",
     "Дзюдо/Оглавление/Подготовка.md",
     "Дзюдо/Дневник/📅31.07.md",
@@ -214,9 +245,6 @@
     "Дзюдо/Дневник/📅01.08.md",
     "Дзюдо/🛌 План восстановления сна.md",
     "Дзюдо/Дневник",
-    "Дзюдо/🧠Ментальная стабильность.md",
-    "Дзюдо/🥩Питание.md",
-    "Дзюдо/🥇Чемпионат U16.md",
     "Дзюдо/Оглавление/Дзюдо.md",
     "Дзюдо/Оглавление/Колледж.md",
     "README.md",
@@ -233,22 +261,10 @@
     "FJU/Федерация Дзюдо Украины (ФДУ) - Вебсайт.md",
     "Браузер. Пространство Windows.md",
     "FJU/Структура проекта.md",
-    "assets/menu-tools.png",
-    "assets/chrome-tools.png",
-    "assets/FJU/FJU-home-events.png",
-    "ukraine-judo.github.io_(Full HD) (5).png",
-    "Личное пространство в Windows.md",
-    "ukraine-judo.github.io_(Full HD) (4).png",
-    "assets/FJU/FJU-home-news.png",
-    "ukraine-judo.github.io_(е435).png",
-    "ukraine-judo.github.io_(Full HD) (3).png",
-    "assets/FJU/FJU-home-about.png",
-    "assets/FJU/FJU-home-main.png",
     "FJU",
     "assets/FJU",
     "Без названия 1",
     "backup 1.json",
-    "assets/backup.json",
     "Вкладки. Домашняя страница..md",
     "лиза.md",
     "create a link.md",
