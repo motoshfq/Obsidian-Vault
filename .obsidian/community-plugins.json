@@ -1,5 +1,8 @@
 [
   "remotely-save",
   "obsidian-git",
-  "github-sync"
+  "github-sync",
+  "obsidian-local-rest-api",
+  "mcp-tools",
+  "copilot"
 ]
